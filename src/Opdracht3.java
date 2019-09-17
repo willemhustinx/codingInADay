@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Opdract3 {
+public class Opdracht3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Wat is je naam? ");

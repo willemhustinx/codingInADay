@@ -1,4 +1,4 @@
-public class Opdract2 {
+public class Opdracht2 {
 
     public static void main(String[] args) {
 
