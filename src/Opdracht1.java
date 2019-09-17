@@ -4,7 +4,7 @@ public class Opdracht1 {
 
         System.out.println("Hello Willem");
 
-        System.out.println("Hello we gaan programmeren");
+        System.out.println("We gaan programmeren");
 
     }
 
